@@ -2,15 +2,17 @@
 
 # Código extraído desde <https://medium.com/@saurabhdahibhate50/devops-day-04-task-e51d64ffbf16> 
 
-# Take user input
-echo "Enter your name:"
+# Ingresar el nombre 
+echo "Ingresa tu nombre:"
 read name
 
-# Take input from arguments
+# Toma el valor de los argumentos 
+# Ej:  ./nombre_bash.sh $1 $2
+
 arg1=$1
 arg2=$2
 
 # Print the variables
-echo "Your name is: $name"
-echo "Argument 1 is: $arg1"
-echo "Argument 2 is: $arg2"
+echo "Tu nombre es: $name"
+echo "Argumento 1 es: $arg1"
+echo "Argumento 2 es: $arg2"
