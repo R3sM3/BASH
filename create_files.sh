@@ -1,3 +1,8 @@
+#!/bin/bash
+
+# Uso de variables en el nombre
+# Script realizado en plataforma KodeKloud
+
 FILE01=Japan
 FILE02=Egypt
 
