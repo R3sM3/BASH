@@ -1,6 +1,7 @@
 #!/bin/bash
 
 # Uso de variables en el nombre
+# Script realizado en plataforma KodeKloud
 
 file_name=create-and-launch-rocket
 
