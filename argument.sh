@@ -1,8 +1,8 @@
 #!/bin/bash
 
 #  Este codigo fue extraido desde la siguiente pagina
-#  https://medium.com/@naseer1015922/5-killer-python-scripts-for-automation-part-2-33d7aa84cedc
-#  Fue creado por https://medium.com/@naseer1015922
+#  https://aakibkhan1.medium.com/mastering-advanced-shell-scripting-unleashing-the-full-potential-425e1757f27f
+#  Fue creado por Aakib
 
 echo "Script name: $0"
 echo "First argument: $1"
