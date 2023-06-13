@@ -1,5 +1,9 @@
 #!/bin/bash
 
+#
+# Comentario
+#
+
 # Uso de variables en el nombre
 # Script realizado en plataforma KodeKloud
 
