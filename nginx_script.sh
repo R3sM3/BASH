@@ -1,5 +1,9 @@
 #!/bin/bash
 
+#
+# Comentario
+#
+
 # Verificar si el servicio de Nginx está instalado
 if [ $(dpkg-query -W -f='${Status}' nginx 2>/dev/null | grep -c "ok installed") -eq 0 ]; then
   echo "Nginx no está instalado. Se procederá con la instalación."
