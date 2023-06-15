@@ -1,5 +1,6 @@
 #!/bin/bash
 
+
 # Uso de variables como resultado de uptime
 # Script realizado en plataforma KodeKloud
 
