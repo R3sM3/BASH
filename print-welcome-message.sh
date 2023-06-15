@@ -1,5 +1,6 @@
 #!/bin/bash
 
+
 # Uso de variables
 # Script realizado en plataforma KodeKloud
 
