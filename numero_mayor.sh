@@ -1,6 +1,5 @@
 #!/bin/bash
 
-
 # Código extraído desde <https://medium.com/@saurabhdahibhate50/devops-day-04-task-e51d64ffbf16> 
 
 # Assign two numbers to variables
