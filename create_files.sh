@@ -1,6 +1,5 @@
 #!/bin/bash
 
-
 # Uso de variables en el nombre
 # Script realizado en plataforma KodeKloud
 
