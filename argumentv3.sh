@@ -5,6 +5,7 @@
 
 # Nested if-else
 
+
 if [ condition1 ]; then
   if [ condition2 ]; then
     echo "Condition 1 and Condition 2 met."
